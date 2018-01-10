@@ -1412,6 +1412,18 @@ Icon for all respective meta
     position: absolute;
     left: 0;
 }
+.banner-section {
+    background: url(../../assets/images/Technique-for-Faster-Web-Development.jpg) no-repeat top center #68C3A3;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;  
+}
+
+.banner-section-bg {
+    padding: 180px 0;
+ 
+}
+
 
 /* === Hire Section === */
 .hire-section {
@@ -1420,6 +1432,9 @@ Icon for all respective meta
     background-size: cover;
     color: #fff;  
 }
+
+
+
 .hire-section-bg {
     padding: 110px 0;
     background: -webkit-linear-gradient(bottom, #68C3A3, rgba(104, 195, 163, 0.7)); /*Safari 5.1-6*/
